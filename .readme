@@ -1,0 +1,5 @@
+#---why we are using populate 
+if we want actual object of data inside other model then we will use populate
+other wise it will only give comment id
+
+#--findone and delete
